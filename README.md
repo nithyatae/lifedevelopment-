@@ -1,2 +1,2 @@
 # lifedevelopment-
-This is repository for life process
+This is repository for life process development
